@@ -40,20 +40,20 @@ Für dein Projekt kannst du die folgenden Abschnitte in der `README.md` Datei an
 
 ---
 
-# [DEIN PROJEKTTITEL HIER] 🚀
+# [Crop Yield and Environmental Factors] 🚀
 
-> Eine kurze, prägnante Beschreibung deines Data Science Projekts in 1-2 Sätzen.
+> Data-Science-Projekt zur Analyse und Vorhersage der Erträge verschiedener Kulturpflanzen auf der Grundlage von Umweltfaktoren, darunter Bodeneigenschaften und Düngung.
 
 ## 📊 Projektübersicht
 
 **Problemstellung:** 
-<!-- Beschreibe das Problem, das du lösen möchtest -->
+Der tatsächliche Ernteertrag hängt von komplexen Wechselwirkungen zwischen Umweltbedingungen (Temperatur, Niederschlag, Luftfeuchtigkeit, Nährstoffe im Boden, pH-Wert) und den kulturspezifischen Vegetationsperioden ab. Dieser Datensatz enthält tägliche synthetische Beobachtungen aus zehn Jahren (2014–2023) für zehn Kulturarten.
 
 **Ziel:** 
-<!-- Was ist das Hauptziel deines Projekts? -->
+Das Hauptziel ist die Vorhersage der Zielvariablen „Ertrag“.
 
 **Methoden:** 
-<!-- Welche Techniken/Algorithmen verwendest du? -->
+
 
 
 
